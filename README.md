@@ -19,8 +19,8 @@ prevent bots from automatically submitting forms and accessing websites.
 
 ## How to Run
 
-To run the maker, simply run the `generator.py` script in Python. For further costumization, you can change the values
-of the variables in the `generator.py` file.
+For additional customization options, you may modify the variable values within the `generator.py` file to suit your
+preferences.
 
 ```python
 number_of_captchas = 10  # Number of captcha images to be generated
