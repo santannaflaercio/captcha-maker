@@ -3,9 +3,9 @@
 This repository contains a simple CAPTCHA creator project. The project generates a random CAPTCHA image with 6
 characters, including letters and numbers.
 
-![Language](https://img.shields.io/badge/Language-Python-blue)
-![Captcha Maker](https://img.shields.io/badge/Maker-Captcha-orange)
-![Status](https://img.shields.io/badge/Status-Complete-green)
+![https://github.com/topics/python](https://img.shields.io/badge/Python-v3.10+-yellow)
+![https://github.com/topics/captcha](https://img.shields.io/badge/CAPTCHA-Generator-blue)
+![Status](https://img.shields.io/badge/Status-Complete-yellowgreen)
 
 ## How to Run
 
