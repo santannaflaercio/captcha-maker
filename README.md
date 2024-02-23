@@ -3,9 +3,19 @@
 This repository contains a simple CAPTCHA creator project. The project generates a random CAPTCHA image with 6
 characters, including letters and numbers.
 
+The project explore the use of the `captcha` library in Python to generate CAPTCHA images. The `captcha` library is a
+simple CAPTCHA image generator. It allows you to create your own CAPTCHA images, and verify that the user's input
+matches the generated image.
+
 ![https://github.com/topics/python](https://img.shields.io/badge/Python-v3.10+-yellow)
 ![https://github.com/topics/captcha](https://img.shields.io/badge/CAPTCHA-Generator-blue)
 ![Status](https://img.shields.io/badge/Status-Complete-yellowgreen)
+
+## What is a CAPTCHA?
+
+CAPTCHA stands for "Completely Automated Public Turing test to tell Computers and Humans Apart". It is a type of
+challenge and response test used in computing to determine whether or not the user is human. CAPTCHAs are used to
+prevent bots from automatically submitting forms and accessing websites.
 
 ## How to Run
 
